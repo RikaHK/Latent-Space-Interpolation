@@ -1,0 +1,7 @@
+{
+    "prompt_start": "A futuristic laboratory with glowing blue lights, cyberpunk",
+    "prompt_end": "N/A",
+    "interpolation_method": "Test",
+    "model": "SDXL",
+    "seed": 42
+}

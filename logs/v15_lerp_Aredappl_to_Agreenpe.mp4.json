@@ -1,0 +1,7 @@
+{
+    "prompt_start": "A red apple on a table",
+    "prompt_end": "A green pear on a table",
+    "interpolation_method": "lerp",
+    "model": "v15",
+    "seed": 100
+}

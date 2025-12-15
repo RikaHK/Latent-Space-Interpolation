@@ -1,0 +1,7 @@
+{
+    "prompt_start": "A red sports car on a road",
+    "prompt_end": "A blue sedan on a road",
+    "interpolation_method": "lerp",
+    "model": "v15",
+    "seed": 2025
+}

@@ -1,0 +1,7 @@
+{
+    "prompt_start": "A medieval stone castle on a hill",
+    "prompt_end": "A futuristic sci-fi spaceship in orbit",
+    "interpolation_method": "slerp",
+    "model": "sdxl",
+    "seed": 2025
+}

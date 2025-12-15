@@ -1,0 +1,13 @@
+torch>=2.0.0
+diffusers>=0.24.0
+transformers>=4.30.0
+accelerate>=0.25.0
+scipy
+safetensors
+opencv-python
+lpips
+moviepy==1.0.3
+imageio==2.9.0
+imageio-ffmpeg
+matplotlib
+scikit-learn

@@ -1,0 +1,7 @@
+{
+    "prompt_start": "A landscape of a mountain, oil painting",
+    "prompt_end": "A landscape of a mountain, pencil sketch",
+    "interpolation_method": "slerp",
+    "model": "v15",
+    "seed": 2025
+}

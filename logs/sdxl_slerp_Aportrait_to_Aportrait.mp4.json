@@ -1,0 +1,7 @@
+{
+    "prompt_start": "A portrait of a woman, photorealistic 8k",
+    "prompt_end": "A portrait of a woman, cubist painting by picasso",
+    "interpolation_method": "slerp",
+    "model": "sdxl",
+    "seed": 2025
+}

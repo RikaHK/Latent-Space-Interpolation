@@ -1,0 +1,7 @@
+{
+    "prompt_start": "A photo of a golden retriever dog",
+    "prompt_end": "A photo of a german shepherd dog",
+    "interpolation_method": "slerp",
+    "model": "v15",
+    "seed": 2025
+}

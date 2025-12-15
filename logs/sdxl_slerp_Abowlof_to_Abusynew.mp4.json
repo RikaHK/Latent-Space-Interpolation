@@ -1,0 +1,7 @@
+{
+    "prompt_start": "A bowl of fresh fruit on a table",
+    "prompt_end": "A busy new york city skyline",
+    "interpolation_method": "slerp",
+    "model": "sdxl",
+    "seed": 2025
+}

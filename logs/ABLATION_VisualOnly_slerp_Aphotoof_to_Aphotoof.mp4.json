@@ -1,0 +1,7 @@
+{
+    "prompt_start": "A photo of a cat",
+    "prompt_end": "A photo of a cat",
+    "interpolation_method": "slerp",
+    "model": "ABLATION_VisualOnly",
+    "seed": 888
+}
